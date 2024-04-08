@@ -1,0 +1,7 @@
+id,name,id_shelf,min_qty,quantity,price
+1,Product1,1,10,20,100
+2,Product2,1,20,30,100
+3,Product3,2,30,40,100
+4,Product4,2,40,50,100
+5,Product5,3,50,60,100
+6,Product6,3,60,70,100
